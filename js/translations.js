@@ -1,4 +1,4 @@
-var defaultLang = 'ar'
+var defaultLang = 'en'
 
 var langs = {
 	en: {
